@@ -1,0 +1,4 @@
+user/ admin
+
+login: syful.isl
+pass: 5683
